@@ -1,0 +1,14 @@
+.Item{
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+    width: 300px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: start;
+    align-items: center;
+}
+
+
